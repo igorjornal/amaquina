@@ -91,7 +91,7 @@ h1, h2, h3, .footer-logo { font-family: var(--font-heading); }
     animation: horizontalGlitch2 4s infinite linear alternate-reverse;
     filter: drop-shadow(0 0px 5px rgba(138, 101, 56, 0.4)) hue-rotate(15deg) brightness(0.8);
 }
-.subtitle { font-size: 1.25rem; color: var(--text-muted); margin-bottom: 1.5rem; max-width: 100%; font-weight: 300; }
+.subtitle { font-size: 1.35rem; color: var(--text-muted); margin-bottom: 1.5rem; max-width: 100%; font-weight: 300; }
 
 @keyframes floatingTitle {
     0%, 100% { transform: translateY(0); filter: drop-shadow(0 10px 20px rgba(0,0,0,0.4)); }
